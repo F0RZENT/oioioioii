@@ -1,0 +1,22 @@
+﻿1CV8LOG(ver 2.0)
+85611a18-b4be-483e-973c-b15380d65c7f
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"DESKTOP-E2JCB96",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.RestoreStart",3},
+{4,"_$Session$_.Finish",4},
+{4,"_$InfoBase$_.RestoreFinish",5},
+{3,"1CV8C",2},
+{4,"_$Transaction$_.Begin",6},
+{4,"_$Data$_.Update",7},
+{5,74d8f3d5-cc88-4dbd-becd-da0cf6389ea5,"Справочник.Заказчики",1},
+{4,"_$Transaction$_.Commit",8},
+{5,e3028bf8-ab07-407a-a1e7-a0ec9d493abf,"Документ.Заказ",2},
+{4,"_$Data$_.Post",9},
+{5,a0e9495a-d4d8-45d9-beae-04114cd1055f,"Документ.ВыдачаЗаказов",3},
+{3,"BackgroundJob",3},
+{5,695dccd2-8d76-4451-8b83-a8950d662f56,"Справочник.Товары",4}

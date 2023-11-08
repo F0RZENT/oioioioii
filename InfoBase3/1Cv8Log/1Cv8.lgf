@@ -1,0 +1,19 @@
+﻿1CV8LOG(ver 2.0)
+eb016d36-dd30-4e15-9307-ad6f465b3f22
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"DESKTOP-E2JCB96",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.RestoreStart",3},
+{4,"_$Session$_.Finish",4},
+{4,"_$InfoBase$_.RestoreFinish",5},
+{3,"1CV8C",2},
+{4,"_$Transaction$_.Begin",6},
+{4,"_$Data$_.Update",7},
+{5,e895c31f-79d1-4c9f-ad17-4c83f145b15c,"Справочник.Книги",1},
+{4,"_$Transaction$_.Commit",8},
+{3,"BackgroundJob",3},
+{5,52de7ec3-8519-4e49-bb2c-2843aca746e7,"Справочник.Читатели",2}
